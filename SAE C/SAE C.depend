@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1705082062 source:c:\users\amadis\desktop\but\sae algo-c\sae c\fonctions_1.c
+	<stdio.h>
+	<stdlib.h>
+	"types1.h"
+	"fonctions_1.h"
+	<stddef.h.>
+	<string.h>
+
+1705071547 c:\users\amadis\desktop\but\sae algo-c\sae c\types1.h
+
+1705081945 source:c:\users\amadis\desktop\but\sae algo-c\sae c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"types1.h"
+	"fonctions_1.h"
+	<stddef.h.>
+	<string.h>
+
+1705081573 c:\users\amadis\desktop\but\sae algo-c\sae c\fonctions_1.h
+
